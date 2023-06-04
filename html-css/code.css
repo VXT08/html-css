@@ -1,0 +1,25 @@
+body {
+    font-family: Comic Sans MS, Comic Sans, cursive; /* Семейство шрифтов */
+    font-size: 11px; /* Размер основного шрифта в <p></p>  */
+    background-color: #ff000038; /* Цвет фона веб-страницы */
+    color: #39150e; /* Цвет основного текста */ 
+}
+h1 {
+    color: #ff6200; /* Цвет заголовка */
+    font-size: 48px; /* Размер шрифта в пунктах */
+    font-family: Comic Sans, cursive; /* Семейство шрифтов */
+}
+li {
+    color: #8b4f29; /* Цвет заголовка */
+    font-size: 20px; /* Размер шрифта в пунктах */
+}
+h2 {
+    color: #451c03; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: Comic Sans, cursive; /* Семейство шрифтов */
+}
+h3 {
+    color: #451c03; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: Comic Sans, cursive; /* Семейство шрифтов */
+}
