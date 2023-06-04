@@ -1,25 +1,25 @@
 body {
-    font-family: Comic Sans MS, Comic Sans, cursive; /* Семейство шрифтов */
+    font-family: Inter; /* Семейство шрифтов */
     font-size: 11px; /* Размер основного шрифта в <p></p>  */
-    background-color: #ff000038; /* Цвет фона веб-страницы */
-    color: #39150e; /* Цвет основного текста */ 
+    background-color: #5988FF; /* Цвет фона веб-страницы */
+    color: #ffffff; /* Цвет основного текста */ 
 }
 h1 {
-    color: #ff6200; /* Цвет заголовка */
+    color: #FFFFFF; /* Цвет заголовка */
     font-size: 48px; /* Размер шрифта в пунктах */
-    font-family: Comic Sans, cursive; /* Семейство шрифтов */
+    font-family: Inter; /* Семейство шрифтов */
 }
 li {
-    color: #8b4f29; /* Цвет заголовка */
-    font-size: 20px; /* Размер шрифта в пунктах */
+    color: #FFFFFF;
+    font-size: 20px;
 }
 h2 {
-    color: #451c03; /* Цвет заголовка */
-    font-size: 24px; /* Размер шрифта в пунктах */
-    font-family: Comic Sans, cursive; /* Семейство шрифтов */
+    color: #D6FF6B;
+    font-size: 24px;
+    font-family: Inter;
 }
 h3 {
-    color: #451c03; /* Цвет заголовка */
-    font-size: 24px; /* Размер шрифта в пунктах */
-    font-family: Comic Sans, cursive; /* Семейство шрифтов */
+    color: #D6FF6B;
+    font-size: 24px;
+    font-family: Inter;
 }
